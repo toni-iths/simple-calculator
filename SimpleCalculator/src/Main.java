@@ -9,7 +9,6 @@ public class Main {
             String operation = inputHandler.getOperation();
 
             if (operation.equalsIgnoreCase("exit")) {
-                System.out.println("Tack för att du använde kalkylatorn!");
                 break;
             }
             System.out.println("Ange första talet: ");
